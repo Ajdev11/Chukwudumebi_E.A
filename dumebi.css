@@ -405,7 +405,7 @@
     margin: auto;
     margin-top: -30px;
     height: 380px;
-    height: 390px;
+    height: 420px;
     width: 900px;
     border-radius: 20px;
 }
@@ -1084,7 +1084,7 @@ button[type="submit"]:hover{
     background-color: rgb(44, 41, 41);
     margin: auto;
     margin-top: -30px;
-    height: 650px;
+    height: 670px;
     width: 900px;
     border-radius: 20px;
 }
